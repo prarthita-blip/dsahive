@@ -1,0 +1,26 @@
+footer {
+  position: absolute;
+  font-size: 12px;
+  bottom: 0;
+  width: 100vw;
+  height: 60px;
+  line-height: 60px;
+  font-size: 14px;
+  background-color: #2c2c2c;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  line-height: 1.5;
+  position: fixed;
+  z-index: 99999;
+}
+footer a {
+  text-decoration: none;
+
+  color: inherit;
+}
+footer a:hover {
+  color: #0faa01;
+}
+.footer-copyright {
+  padding-top: 6px !important;
+}
